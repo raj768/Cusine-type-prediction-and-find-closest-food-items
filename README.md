@@ -4,7 +4,7 @@ For this project,  I have developed an analyzer which takes the data in the form
 
 ## Libraries used:
 
-Pandas, sklearn
+Pandas,numpy, sklearn
 
 
 
