@@ -1,4 +1,3 @@
-# cs5293sp22-project2
 
 For this project,  I have developed an analyzer which takes the data in the format of json and predict the cuisine type and also the project also provides similar cuisines possible. 
 
